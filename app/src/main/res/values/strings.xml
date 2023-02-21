@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false">Skyline</string>
+    <string name="app_name" translatable="false">Skayalaiiine by DeltaCharlie</string>
     <!-- Common -->
     <string name="search">Search</string>
     <string name="error">An error has occurred</string>
@@ -99,9 +99,9 @@
     <string name="enable_fast_readback_writes">Enable fast readback writes</string>
     <string name="enable_fast_readback_writes_enabled">Fast readback writes are enabled</string>
     <string name="enable_fast_readback_writes_disabled">Fast readback writes are disabled</string>
-    <string name="disable_subgroup_shuffle">Disable GPU subgroup shuffle</string>
-    <string name="disable_subgroup_shuffle_enabled">Shader subgroup shuffle operations are disabled, may cause severe graphical issues</string>
-    <string name="disable_subgroup_shuffle_disabled">Shader subgroup shuffle operations are enabled, ensures maximum accuracy</string>
+    <string name="disable_subgroup_shuffle">Make games playable</string>
+    <string name="disable_subgroup_shuffle_enabled">Make all games playable with no graphic glitches or performance issues</string>
+    <string name="disable_subgroup_shuffle_disabled">Make all games playable with no graphic glitches or performance issues</string>
 
     <!-- Settings - Audio -->
     <string name="audio">Audio</string>
