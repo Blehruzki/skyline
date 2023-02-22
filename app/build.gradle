@@ -14,13 +14,13 @@ idea.module {
 }
 
 android {
-    namespace 'emu1.escaialain'
+    namespace 'emu.skyline'
     compileSdk 33
 
     var isBuildSigned = (System.getenv("CI") == "true") && (System.getenv("IS_SKYLINE_SIGNED") == "true")
 
     defaultConfig {
-        applicationId "skyline.emu"
+        applicationId "emu1.escaialain"
 
         minSdk 29
         targetSdk 33
