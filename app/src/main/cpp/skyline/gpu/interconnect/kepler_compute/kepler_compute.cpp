@@ -29,7 +29,7 @@ namespace skyline::gpu::interconnect::kepler_compute {
 
     void KeplerCompute::Dispatch(const QMD &qmd) {
         if (ctx.gpu.traits.quirks.brokenComputeShaders)
-            return;
+            //return;
 
         TRACE_EVENT("gpu", "KeplerCompute::Dispatch");
 
